@@ -1,1 +1,1 @@
-# project1
+There are some mini projects
