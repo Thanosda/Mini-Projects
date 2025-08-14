@@ -4,13 +4,13 @@
     color: white;
     padding: 20px;
     font-size: large;
-    position: fixed;    /* Add this */
-    top: 0;             /* Add this */
-    left: 0;            /* Add this */
-    width: 100%;        /* Add this */
+    position: fixed;    
+    top: 0;            
+    left: 0;            
+    width: 100%;        
    border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-       /* Optional: keeps it above other elements */
+      
 }
 
 *{
@@ -32,7 +32,7 @@
     border-radius: 9px;
 }
 
-.con2{
+/* .con2{
     background-color: lightblue;
     height: 90vh;
     margin:20px;
@@ -42,9 +42,9 @@
     margin-top: 90px;
 
       border-radius: 9px;
-}
+} */
 body{
-    height :300vh;
+  /*   height :300vh; */
     background-color: seashell;
     
 }
@@ -97,7 +97,7 @@ body{
     margin-left: 15px;
     box-shadow: 2px 2px 10px black;
     position: relative;
-    top: -45px; /* Adjust this value to move the image upwards */
+    top: -45px; 
 }
 strong{
     color: rgb(0, 0, 0);
